@@ -1,0 +1,14 @@
+C:\Users\MINEDUCYT\source\repos\contadorregresivo\contadorregresivo\bin\Debug\net8.0\contadorregresivo.exe
+C:\Users\MINEDUCYT\source\repos\contadorregresivo\contadorregresivo\bin\Debug\net8.0\contadorregresivo.deps.json
+C:\Users\MINEDUCYT\source\repos\contadorregresivo\contadorregresivo\bin\Debug\net8.0\contadorregresivo.runtimeconfig.json
+C:\Users\MINEDUCYT\source\repos\contadorregresivo\contadorregresivo\bin\Debug\net8.0\contadorregresivo.dll
+C:\Users\MINEDUCYT\source\repos\contadorregresivo\contadorregresivo\bin\Debug\net8.0\contadorregresivo.pdb
+C:\Users\MINEDUCYT\source\repos\contadorregresivo\contadorregresivo\obj\Debug\net8.0\contadorregresivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\source\repos\contadorregresivo\contadorregresivo\obj\Debug\net8.0\contadorregresivo.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\source\repos\contadorregresivo\contadorregresivo\obj\Debug\net8.0\contadorregresivo.AssemblyInfo.vb
+C:\Users\MINEDUCYT\source\repos\contadorregresivo\contadorregresivo\obj\Debug\net8.0\contadorregresivo.vbproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\source\repos\contadorregresivo\contadorregresivo\obj\Debug\net8.0\contadorregresivo.dll
+C:\Users\MINEDUCYT\source\repos\contadorregresivo\contadorregresivo\obj\Debug\net8.0\refint\contadorregresivo.dll
+C:\Users\MINEDUCYT\source\repos\contadorregresivo\contadorregresivo\obj\Debug\net8.0\contadorregresivo.pdb
+C:\Users\MINEDUCYT\source\repos\contadorregresivo\contadorregresivo\obj\Debug\net8.0\contadorregresivo.genruntimeconfig.cache
+C:\Users\MINEDUCYT\source\repos\contadorregresivo\contadorregresivo\obj\Debug\net8.0\ref\contadorregresivo.dll
