@@ -1,0 +1,14 @@
+C:\Users\MINEDUCYT\source\repos\suma2numeros\suma2numeros\bin\Debug\net8.0\suma2numeros.exe
+C:\Users\MINEDUCYT\source\repos\suma2numeros\suma2numeros\bin\Debug\net8.0\suma2numeros.deps.json
+C:\Users\MINEDUCYT\source\repos\suma2numeros\suma2numeros\bin\Debug\net8.0\suma2numeros.runtimeconfig.json
+C:\Users\MINEDUCYT\source\repos\suma2numeros\suma2numeros\bin\Debug\net8.0\suma2numeros.dll
+C:\Users\MINEDUCYT\source\repos\suma2numeros\suma2numeros\bin\Debug\net8.0\suma2numeros.pdb
+C:\Users\MINEDUCYT\source\repos\suma2numeros\suma2numeros\obj\Debug\net8.0\suma2numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\source\repos\suma2numeros\suma2numeros\obj\Debug\net8.0\suma2numeros.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\source\repos\suma2numeros\suma2numeros\obj\Debug\net8.0\suma2numeros.AssemblyInfo.vb
+C:\Users\MINEDUCYT\source\repos\suma2numeros\suma2numeros\obj\Debug\net8.0\suma2numeros.vbproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\source\repos\suma2numeros\suma2numeros\obj\Debug\net8.0\suma2numeros.dll
+C:\Users\MINEDUCYT\source\repos\suma2numeros\suma2numeros\obj\Debug\net8.0\refint\suma2numeros.dll
+C:\Users\MINEDUCYT\source\repos\suma2numeros\suma2numeros\obj\Debug\net8.0\suma2numeros.pdb
+C:\Users\MINEDUCYT\source\repos\suma2numeros\suma2numeros\obj\Debug\net8.0\suma2numeros.genruntimeconfig.cache
+C:\Users\MINEDUCYT\source\repos\suma2numeros\suma2numeros\obj\Debug\net8.0\ref\suma2numeros.dll
