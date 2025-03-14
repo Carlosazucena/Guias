@@ -1,0 +1,14 @@
+C:\Users\MINEDUCYT\source\repos\areacirculo\areacirculo\bin\Debug\net8.0\areacirculo.exe
+C:\Users\MINEDUCYT\source\repos\areacirculo\areacirculo\bin\Debug\net8.0\areacirculo.deps.json
+C:\Users\MINEDUCYT\source\repos\areacirculo\areacirculo\bin\Debug\net8.0\areacirculo.runtimeconfig.json
+C:\Users\MINEDUCYT\source\repos\areacirculo\areacirculo\bin\Debug\net8.0\areacirculo.dll
+C:\Users\MINEDUCYT\source\repos\areacirculo\areacirculo\bin\Debug\net8.0\areacirculo.pdb
+C:\Users\MINEDUCYT\source\repos\areacirculo\areacirculo\obj\Debug\net8.0\areacirculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\source\repos\areacirculo\areacirculo\obj\Debug\net8.0\areacirculo.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\source\repos\areacirculo\areacirculo\obj\Debug\net8.0\areacirculo.AssemblyInfo.vb
+C:\Users\MINEDUCYT\source\repos\areacirculo\areacirculo\obj\Debug\net8.0\areacirculo.vbproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\source\repos\areacirculo\areacirculo\obj\Debug\net8.0\areacirculo.dll
+C:\Users\MINEDUCYT\source\repos\areacirculo\areacirculo\obj\Debug\net8.0\refint\areacirculo.dll
+C:\Users\MINEDUCYT\source\repos\areacirculo\areacirculo\obj\Debug\net8.0\areacirculo.pdb
+C:\Users\MINEDUCYT\source\repos\areacirculo\areacirculo\obj\Debug\net8.0\areacirculo.genruntimeconfig.cache
+C:\Users\MINEDUCYT\source\repos\areacirculo\areacirculo\obj\Debug\net8.0\ref\areacirculo.dll
