@@ -1,0 +1,14 @@
+C:\Users\MINEDUCYT\source\repos\tablamultiplicar\tablamultiplicar\bin\Debug\net8.0\tablamultiplicar.exe
+C:\Users\MINEDUCYT\source\repos\tablamultiplicar\tablamultiplicar\bin\Debug\net8.0\tablamultiplicar.deps.json
+C:\Users\MINEDUCYT\source\repos\tablamultiplicar\tablamultiplicar\bin\Debug\net8.0\tablamultiplicar.runtimeconfig.json
+C:\Users\MINEDUCYT\source\repos\tablamultiplicar\tablamultiplicar\bin\Debug\net8.0\tablamultiplicar.dll
+C:\Users\MINEDUCYT\source\repos\tablamultiplicar\tablamultiplicar\bin\Debug\net8.0\tablamultiplicar.pdb
+C:\Users\MINEDUCYT\source\repos\tablamultiplicar\tablamultiplicar\obj\Debug\net8.0\tablamultiplicar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\source\repos\tablamultiplicar\tablamultiplicar\obj\Debug\net8.0\tablamultiplicar.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\source\repos\tablamultiplicar\tablamultiplicar\obj\Debug\net8.0\tablamultiplicar.AssemblyInfo.vb
+C:\Users\MINEDUCYT\source\repos\tablamultiplicar\tablamultiplicar\obj\Debug\net8.0\tablamultiplicar.vbproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\source\repos\tablamultiplicar\tablamultiplicar\obj\Debug\net8.0\tablamultiplicar.dll
+C:\Users\MINEDUCYT\source\repos\tablamultiplicar\tablamultiplicar\obj\Debug\net8.0\refint\tablamultiplicar.dll
+C:\Users\MINEDUCYT\source\repos\tablamultiplicar\tablamultiplicar\obj\Debug\net8.0\tablamultiplicar.pdb
+C:\Users\MINEDUCYT\source\repos\tablamultiplicar\tablamultiplicar\obj\Debug\net8.0\tablamultiplicar.genruntimeconfig.cache
+C:\Users\MINEDUCYT\source\repos\tablamultiplicar\tablamultiplicar\obj\Debug\net8.0\ref\tablamultiplicar.dll
