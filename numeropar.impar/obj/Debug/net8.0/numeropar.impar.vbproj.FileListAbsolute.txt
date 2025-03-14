@@ -1,0 +1,14 @@
+C:\Users\MINEDUCYT\source\repos\numeropar.impar\numeropar.impar\bin\Debug\net8.0\numeropar.impar.exe
+C:\Users\MINEDUCYT\source\repos\numeropar.impar\numeropar.impar\bin\Debug\net8.0\numeropar.impar.deps.json
+C:\Users\MINEDUCYT\source\repos\numeropar.impar\numeropar.impar\bin\Debug\net8.0\numeropar.impar.runtimeconfig.json
+C:\Users\MINEDUCYT\source\repos\numeropar.impar\numeropar.impar\bin\Debug\net8.0\numeropar.impar.dll
+C:\Users\MINEDUCYT\source\repos\numeropar.impar\numeropar.impar\bin\Debug\net8.0\numeropar.impar.pdb
+C:\Users\MINEDUCYT\source\repos\numeropar.impar\numeropar.impar\obj\Debug\net8.0\numeropar.impar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\source\repos\numeropar.impar\numeropar.impar\obj\Debug\net8.0\numeropar.impar.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\source\repos\numeropar.impar\numeropar.impar\obj\Debug\net8.0\numeropar.impar.AssemblyInfo.vb
+C:\Users\MINEDUCYT\source\repos\numeropar.impar\numeropar.impar\obj\Debug\net8.0\numeropar.impar.vbproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\source\repos\numeropar.impar\numeropar.impar\obj\Debug\net8.0\numeropar.impar.dll
+C:\Users\MINEDUCYT\source\repos\numeropar.impar\numeropar.impar\obj\Debug\net8.0\refint\numeropar.impar.dll
+C:\Users\MINEDUCYT\source\repos\numeropar.impar\numeropar.impar\obj\Debug\net8.0\numeropar.impar.pdb
+C:\Users\MINEDUCYT\source\repos\numeropar.impar\numeropar.impar\obj\Debug\net8.0\numeropar.impar.genruntimeconfig.cache
+C:\Users\MINEDUCYT\source\repos\numeropar.impar\numeropar.impar\obj\Debug\net8.0\ref\numeropar.impar.dll
